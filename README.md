@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ayesha! <br/><a >Software Engineer</a>, <a >AWS Certified Sloutions Architect- Associate</a> 
+<h1>Hi, I'm Ayesha! <br/><a >Software Engineer</a>, <a >AWS Certified Sloutions Architect</a> 
 <h2>Certifications:</h2>
 
 - <b>AWS Certified Cloud Practitioner</b>
