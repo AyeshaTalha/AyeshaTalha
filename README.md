@@ -7,7 +7,7 @@
 <h3>👩🏻‍💻 Cloud Projects:</h3>
 
 - <b>AWS Wordpress Website</b>
-  - [Deployed And Hosted a WordPress Website on AWS using Amazon EC2, Amazon RDS, Amazon CloudFront, Amazon Route53, AWS IAM.](https://github.com/)
+  - [Deployed And Hosted a WordPress Website on AWS using Amazon EC2, Amazon RDS, Amazon CloudFront, Amazon Route53, AWS IAM.](https://github.com/AyeshaTalha/AmazonConnectCallCentre)
 - <b>AWS Serverless Web Application</b>
   - [Built Serverless architecture on the AWS platform.](https://github.com/) <b>
 - <b>Amazon Connect Call Centre on AWS</b>
