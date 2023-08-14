@@ -1,9 +1,10 @@
 <h1>Hi, I'm Ayesha! <br/><a >Software Engineer</a>, <a >AWS Certified Sloutions Architect</a> 
 <h2>Certifications:</h2>
 
-- <b>AWS Certified Cloud Practitioner</b>
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/ca5b53a5-38a7-4c05-b22b-7801fe95f251/public_url)
 
-- <b>AWS Certified Solutions Architect - Associate</b>
+[AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/fe16680f-cc8d-49d8-ab7d-7c40fcebaad1/public_url)
+
 <h3>👩🏻‍💻 Cloud Projects:</h3>
 
 - <b>AWS Wordpress Website</b>
