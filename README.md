@@ -10,9 +10,9 @@
 - <b>AWS Wordpress Website</b>
   - [Deployed And Hosted a WordPress Website on AWS using Amazon EC2, Amazon RDS, Amazon CloudFront, Amazon Route53, AWS IAM.](https://github.com/AyeshaTalha/WordPressWebsite)
 - <b>AWS Serverless Web Application</b>
-  - [Built Serverless architecture on the AWS platform.](https://github.com/AyeshaTalha/ServerlessWebApplication) <b>
+  - [Built Serverless Architecture on the AWS platform.](https://github.com/AyeshaTalha/ServerlessWebApplication) <b>
 - <b>Amazon Connect Call Centre on AWS</b>
-  - [Built a call centre in AWS using Amazon Connect](https://github.com/AyeshaTalha/AmazonConnectCallCentre)
+  - [Built a Call Centre in AWS using Amazon Connect](https://github.com/AyeshaTalha/AmazonConnectCallCentre)
   
 
 <h2> 🤳 Connect with me:</h2>
