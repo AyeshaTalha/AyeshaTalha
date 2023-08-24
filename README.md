@@ -1,11 +1,26 @@
-<h1>Hi, I'm Ayesha! <br/><a >Software Engineer</a>, <a >AWS Certified Sloutions Architect</a> 
-<h2>Certifications:</h2>
+## Hi there, I'm Ayesha 👋
+
+Welcome to my GitHub profile! I'm a recent computer science graduate with a strong interest in cloud computing and its applications.
+
+## About Me
+
+I graduated with a degree in Computer Science from Visvesvaraya Technological University. Throughout my academic journey, I developed a passion for cloud computing and its transformative potential. My goal is to leverage cloud technologies to solve real-world problems and create innovative solutions.
+
+## Interests
+
+- **Cloud Computing:** Exploring cloud platforms and services to design scalable and reliable applications.
+- **DevOps:** Learning how to automate deployments and streamline development workflows.
+- **Big Data:** Studying data processing and analytics using cloud-based tools.
+- **Machine Learning:** Exploring cloud's role in enabling machine learning and AI projects.
+  
+
+<h2>Certifications</h2>
 
 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ca5b53a5-38a7-4c05-b22b-7801fe95f251/public_url)
 
 [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/fe16680f-cc8d-49d8-ab7d-7c40fcebaad1/public_url)
 
-<h3>👩🏻‍💻 Cloud Projects:</h3>
+<h3>👩🏻‍💻 Cloud Projects</h3>
 
 - <b>AWS Wordpress Website</b>
   - [Deployed And Hosted a WordPress Website on AWS using Amazon EC2, Amazon RDS, Amazon CloudFront, Amazon Route53, AWS IAM.](https://github.com/AyeshaTalha/WordPressWebsite)
