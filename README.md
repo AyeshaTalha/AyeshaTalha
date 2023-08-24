@@ -20,7 +20,7 @@ I graduated with a degree in Computer Science from Visvesvaraya Technological Un
 
 [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/fe16680f-cc8d-49d8-ab7d-7c40fcebaad1/public_url)
 
-<h3>👩🏻‍💻 Cloud Projects</h3>
+## 👩🏻‍💻 Cloud Projects
 
 - <b>AWS Wordpress Website</b>
   - [Deployed And Hosted a WordPress Website on AWS using Amazon EC2, Amazon RDS, Amazon CloudFront, Amazon Route53, AWS IAM.](https://github.com/AyeshaTalha/WordPressWebsite)
@@ -28,9 +28,20 @@ I graduated with a degree in Computer Science from Visvesvaraya Technological Un
   - [Built Serverless Architecture on the AWS platform.](https://github.com/AyeshaTalha/ServerlessWebApplication) <b>
 - <b>Amazon Connect Call Centre on AWS</b>
   - [Built a Call Centre in AWS using Amazon Connect](https://github.com/AyeshaTalha/AmazonConnectCallCentre)
+
+## Learning Path
+
+I'm dedicated to continuous learning and professional growth:
+
+- Currently pursuing Solutions Architect - Professional in AWS.
+- Exploring online courses on  DevOps, Cloud Architecture.
+
   
 
-<h2> 🤳 Connect with me:</h2>
+## Let's Connect
+
+I'm excited to connect with fellow cloud enthusiasts, developers, and professionals. You can find me on:
+
 
 [<img align="left" alt="AyeshaTalha | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="AyeshaTalha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
