@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a recent computer science graduate with a stro
 
 ## About Me
 
-I graduated with a degree in Computer Science from Visvesvaraya Technological University. Throughout my academic journey, I developed a passion for cloud computing and its transformative potential. My goal is to leverage cloud technologies to solve real-world problems and create innovative solutions.
+I graduated with a degree in Computer Science Engineering from Visvesvaraya Technological University. Throughout my academic journey, I developed a passion for cloud computing and its transformative potential. My goal is to leverage cloud technologies to solve real-world problems and create innovative solutions.
 
 ## Interests
 
