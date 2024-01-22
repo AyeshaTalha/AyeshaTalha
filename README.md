@@ -20,7 +20,7 @@ I graduated with a degree in Computer Science Engineering from Visvesvaraya Tech
 
 [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/fe16680f-cc8d-49d8-ab7d-7c40fcebaad1/public_url)
 
-## 👩🏻‍💻 Cloud Projects
+## 👩🏻‍💻 Projects
 
 - <b>AWS Wordpress Website</b>
   - [Deployed And Hosted a WordPress Website on AWS using Amazon EC2, Amazon RDS, Amazon CloudFront, Amazon Route53, AWS IAM.](https://github.com/AyeshaTalha/WordPressWebsite)
@@ -28,6 +28,8 @@ I graduated with a degree in Computer Science Engineering from Visvesvaraya Tech
   - [Built Serverless Architecture on the AWS platform.](https://github.com/AyeshaTalha/ServerlessWebApplication) <b>
 - <b>Amazon Connect Call Centre on AWS</b>
   - [Built a Call Centre in AWS using Amazon Connect](https://github.com/AyeshaTalha/AmazonConnectCallCentre)
+- <b>Active Directory Home Lab (using Oracle VotualBox)</b>
+  - [Setup and configured a Home lab running Acive Directory using Virtual Machines, DHCP server, RAS server etc.](https://github.com/AyeshaTalha/ActiveDirectoryHmeLab) 
 
 ## Learning Path
 
