@@ -20,6 +20,8 @@ I graduated with a degree in Computer Science Engineering from Visvesvaraya Tech
 
 [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/fe16680f-cc8d-49d8-ab7d-7c40fcebaad1/public_url)
 
+[Microsoft Certified : Azure Fundamentals](https://learn.microsoft.com/en-ca/users/94035321/credentials/89cb1f73728027bd)
+
 ## 👩🏻‍💻 Projects
 
 - <b>AWS Wordpress Website</b>
